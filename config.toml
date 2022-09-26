@@ -1,4 +1,32 @@
 baseURL = 'https://ilyaas.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Blog | Ilyaas Kapadia'
 theme = 'anubis'
+paginate = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 2
+
+[params]
+author = "Ilyaas Kapadia"
+description = "Mountain man pursuing my dream and documenting the journey"
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+dateFormat = "02-01-2006"
+paginationSinglePost = true
+rssAsSocialIcon = true
+
+[[params.social]]
+id = "youtube"
+url = "https://www.youtube.com/c/IlyaasKapadia"
