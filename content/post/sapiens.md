@@ -2,6 +2,7 @@
 title: "Sapiens: My Notes"
 date: 2022-09-26T19:45:06+05:30
 draft: false
+tags: ['book notes']
 ---
 # Sapiens - A Brief History Of Humankind
 
