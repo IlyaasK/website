@@ -1,4 +1,4 @@
-baseURL = 'https://ilyaas.netlify.org/'
+baseURL = 'https://ilyaas.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anubis'
