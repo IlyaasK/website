@@ -23,7 +23,7 @@ style = "auto"
 readMore = false
 readNextPosts = 2
 copyCodeButton = true
-dateFormat = "02-01-2006"
+dateFormat = "2 January 2006"
 paginationSinglePost = true
 rssAsSocialIcon = true
 
