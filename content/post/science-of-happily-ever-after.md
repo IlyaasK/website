@@ -3,7 +3,7 @@ title: "The Science of Happily Ever After: My Takeaways"
 date: 2022-09-26T22:16:50+05:30
 tags: ['book notes']
 ---
-#The Science Of Happily Ever After: What Really Matters in the Quest for Enduring Love by Ty Tashiro
+# The Science Of Happily Ever After: What Really Matters in the Quest for Enduring Love by Ty Tashiro
 
 Choose the right partner in the first place
 

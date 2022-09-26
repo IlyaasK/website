@@ -3,7 +3,7 @@ title: "Attached: My Takeaways"
 date: 2022-09-26T22:11:42+05:30
 tags: ['book notes']
 ---
-#Attached: The Science of Adult Attachment by Amir Levine
+# Attached: The Science of Adult Attachment by Amir Levine
 
 "Most people are only as needy as their unmet needs".
 
