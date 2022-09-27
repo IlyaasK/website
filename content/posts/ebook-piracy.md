@@ -3,7 +3,7 @@ title: "Websites for Ebook Piracy"
 date: 2022-09-27T22:05:12+05:30
 tags: ['piracy']
 ---
-# Websites I Download Ebboks from for free
+# Websites I Download Ebooks from for free
 
 These are ones I use.
 
@@ -12,4 +12,4 @@ These are ones I use.
 - https://pdfdrive.com/
 - https://libgen.is/
 
-Google "zlibrary for more"
+Search "zlibrary" for more.
