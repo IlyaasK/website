@@ -1,0 +1,48 @@
+baseURL: 'https://ilyaas.netlify.app/'
+languageCode: en-us
+title: Ilyaas Kapadia
+theme: PaperMod
+paginate: 10
+menu:
+  main:
+    - name: Archive
+      identifier: archive
+      url: /posts/
+      weight: 10
+    - name: Tags
+      identifier: tags
+      url: /tags/
+      weight: 10
+    - name: Search
+      identifier: search
+      url: /search/
+      weight: 10
+
+params:
+  style: auto
+  copyCodeButton: true
+  dateFormat: 2 January 2006
+  paginationSinglePost: true
+
+params:
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowWoordCount: true
+  homeInfoParams:
+      Title: Guten Tag
+      Content: A man in the mountains pursuing his dream.
+          Documenting my life, my journey.
+
+
+  socialIcons: # optional
+      - name: "youtube"
+        url: "https://youtube.com/c/IlyaasKapadia"
+
+  ShowWordCount: true #show word count
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
