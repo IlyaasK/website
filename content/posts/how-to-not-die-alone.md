@@ -2,7 +2,7 @@
 title: "How to Not Die Alone: My Takeaways"
 date: 2022-09-26T22:03:00+05:30
 draft: false
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 # How To Not Die Alone by Logan Ury
 

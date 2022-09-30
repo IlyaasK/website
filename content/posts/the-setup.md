@@ -1,7 +1,7 @@
 ---
 title: "The Setup: My Takeaways"
 date: 2022-09-26T22:21:54+05:30
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 # The Setup by Dan Bilzerian
 

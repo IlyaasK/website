@@ -1,7 +1,7 @@
 ---
 title: "The Magic of Thinking Big: My Takeaways"
 date: 2022-09-26T22:08:09+05:30
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 # The Magic Of Thinking Big by David Schwartz
 

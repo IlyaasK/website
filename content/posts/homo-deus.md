@@ -2,7 +2,7 @@
 title: "Homo Deus: My Notes"
 date: 2022-09-26T19:45:18+05:30
 draft: false
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 # Homo Deus - A Brief History Of Tomorrow
 

@@ -2,7 +2,7 @@
 title: "Do Epic Shit: My Takeaways"
 date: 2022-09-26T21:59:05+05:30
 draft: false
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 
 # Do Epic Shit by Ankur Warikoo

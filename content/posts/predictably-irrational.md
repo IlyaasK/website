@@ -1,7 +1,7 @@
 ---
 title: "Predictably Irrational: My Takeaways"
 date: 2022-09-26T22:05:23+05:30
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 #Predictably Irrational by Dan Ariely
 

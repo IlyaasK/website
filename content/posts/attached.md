@@ -1,7 +1,7 @@
 ---
 title: "Attached: My Takeaways"
 date: 2022-09-26T22:11:42+05:30
-tags: ['book notes']
+tags: ['Book Notes']
 ---
 # Attached: The Science of Adult Attachment by Amir Levine
 
@@ -9,7 +9,7 @@ tags: ['book notes']
 
 You are dependent on each other, biologically
 
-Date secure people. I am secure. N*** claims avoidance. Na**** is avoidant. Mother is anxious. Father is avoidant. I had anxious tendencies. I don't anymore, and I attribute that to Vihaan.
+Date secure people. I am secure. Roof claims avoidance. Phool is avoidant. Mother is anxious. Father is avoidant. I had anxious tendencies. I don't anymore, and I attribute that to Vihaan.
 
 If youre dating anxious: respond to their calls and cries for help, reassure them, calm them down , tell them you'll be back in some time.
 
@@ -46,7 +46,7 @@ Never take shit behaviour, they have to get better, don't let shit become the no
 Avoidants use sex to distance themselves. May even only focus on PiV with rules like no kissing.
 An avoidant's inner circle is also treated like shit - if you are ashamed to tell others how you are treated and are surprised when people tell you how sweet, nice, or considerate your mate is.
 
-Naisha brought out the avoidant in me. Is nida also doing so?
+Naisha brought out the anxious in me. Is Roof also doing so?
 
 When broken up. heat yourself, eat good food, exercise and cuddle with a friend or be pet by them.
 
@@ -82,7 +82,7 @@ To end:
 Be your authentic self
 your attachment needs are legitimate
 you will depend on the person you are closest to - it is a part of your genetic makeup
-a relationship should make you feel more self-confident and give you peace of mind, not the other way around. Is it the other way around with Nida. I think so, there is an emotional turmoil there that I do not feel with Arya.
+a relationship should make you feel more self-confident and give you peace of mind, not the other way around. Is it the other way around with Roof. I think so, there is an emotional turmoil there that I do not feel with Arya.
 
 Books: attachment in adulthood
 attachment theory and close relationships
