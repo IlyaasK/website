@@ -2,13 +2,9 @@ baseURL: 'https://ilyaas.netlify.app/'
 languageCode: en-us
 title: Ilyaas Kapadia
 theme: PaperMod
-paginate: 10
+paginate: 100
 menu:
   main:
-    - name: Archive
-      identifier: archive
-      url: /posts/
-      weight: 10
     - name: Tags
       identifier: tags
       url: /tags/
