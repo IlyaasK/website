@@ -1,5 +1,5 @@
 ---
-title: "Why I Dont Use Notion"
+title: "Why I Don't Use Notion"
 date: 2022-10-12T13:16:31+05:30
 tags:
 ---

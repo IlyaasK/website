@@ -3,7 +3,7 @@ title: "Silence"
 date: 2022-10-12T12:38:05+05:30
 tags:
 ---
-[# Stare at your wall and think](https://piped.kavin.rocks/watch?v=H4VWDJUDHX0)
+# [Stare at your wall and think](https://piped.kavin.rocks/watch?v=H4VWDJUDHX0)
 
 Seriously. It's great.
 
