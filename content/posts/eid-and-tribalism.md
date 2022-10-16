@@ -13,4 +13,4 @@ RTFM - the manual being the Quran. Stop your tribalism. Challenge your scholars.
 
 What is the point of this celebration? Dopamine? Sure. What does this achieve? I don't know. I've stopped asking such questions when it comes to religion because computation or thinking is effortful and time-consuming and I have limited resources. I'd rather spend them riding, reading, and writing (but more imp topics).
 
-All I know is that it is annoying. At least they were doing it during the day. Raat ko navratri is just paingul. Let me fucking sleep. Tum bhi so jao. (Go to sleep as well.) Ride early and grind.
+All I know is that it is annoying. At least they were doing it during the day. Raat ko navratri is just painful. Let me fucking sleep. Tum bhi so jao. (Go to sleep as well.) Ride early and grind.
