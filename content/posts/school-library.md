@@ -8,7 +8,7 @@ I go to a school that is a proper rich kid school. - one of the top 5 schools in
 I came here, in first grade, not knowing English. I came here naive.
 I leave being a voracious reader, and a writer, and I "speak English like a foreigner" as my mother puts it. The school planted the seeds of the growth mindset, and all the self-improvement books I've read watered that seed.
 
-I am so grateful for that. The fact that I read 40 books a year in my childhood allows for greater information processing capacity now. I can now consume any English content with 100\u2105 comprehension.
+I am so grateful for that. The fact that I read 40 books a year in my childhood allows for greater information processing capacity now. I can now consume any English content with 100% comprehension.
 
 I don't watch BS vlogs or entertainment. I watch good quality informative/infotainment stuff. I attribute this to reading and English. My school, essentially.
 

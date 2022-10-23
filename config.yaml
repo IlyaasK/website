@@ -30,7 +30,6 @@ params:
       Content: A man in the mountains pursuing his dream.
           Documenting my life, my journey.
 
-
   socialIcons: # optional
       - name: "youtube"
         url: "https://youtube.com/c/IlyaasKapadia"
