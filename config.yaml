@@ -36,6 +36,11 @@ params:
 
   ShowWordCount: true #show word count
 
+params:
+  instagram:
+    appID: ""
+    clientToken: ""
+
 outputs:
   home:
     - HTML
