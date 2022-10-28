@@ -19,10 +19,6 @@ We walked for a long time to borrow tools from the locals which was tiring. One 
 
 We then started building the 1st jump - a 1-bike-length tabletop. We got tired midway due to the morning walk. Only putting the mud on top of the goni-structure was left. Hitesh left to help out his friend plan a surprise, we (not really) missed his moral support. Oh also, at the time of writing this, we recently found out his shoulder has a minor fracture. A month after the crack he went to the doctor. What a chut. We toiled through the rest of the build. I was exhausted enough to set 15 min intervals and 5 min breaks to focus on the act of building and focus due to the deadline an interval gives. Parkinson's law in action.
 
-*continued in comments*
-
-1st continuation comment:
-
 During this, there was a lot of Hitesh whining, Uni discussion with Hitesh loving my email ID, reading my CV,  and me reading his Essay and Personal statement.
 
 We then discussed again my CV and how it is a 2 pager. He provided valuable feedback (thanks babe). The conversation then turned to expensive rich kid schools and how the curriculum is different there and the kinds of opportunities privilege provides.
@@ -36,10 +32,6 @@ Hitesh, Savio, Sri, his bike, and I went to Sri's place. There he showed us his 
 We proceeded to watch VR porn. Turns out most of the stuff is paid. We had 2 90 sec samples. Their experiences have been captured for your vicarious pleasure. Unfortunately, no one recorded my reaction :(
 
 Regardless, it is not as immersive as I thought it would be. This is most likely due to the disconnect of watching what would presumably be my body fucking this chick but feeling nothing, not hip thrusting. But that is a problem that can be extended to all kinds of porn. Overall, meh experience. Also, I have realized I no longer enjoy porn, of any kind.  The Hamza and the romantic in me won't allow me to, even if I did. Hitesh subsequently left.
-
-*continued in second comment*
-
-2nd continuation comment:
 
 Then he showed us his blender projects, more song stuff, and video projects. That took a long while. We then played for roughly 15 mins each of a VR game called The Lab for. The Bow and Arrow sub-game was fun. However, I will now restrict myself to a boxing/ping pong game for the experience and won't continue, for long-term dopamine detox purposes. It fucks with my ability to do difficult things, due to the hedonic treadmill.
 
