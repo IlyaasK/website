@@ -49,3 +49,5 @@ What is another sacrifice I can make to make more progress towards my goals?
 
 Wake up early and sleep early - switch off my phone by 6:30 pm and sleep by 8.
 This will increase my deep work hours, while keeping my sleep in check AND daily MTB rides. A keystone habit.
+
+*subject to change over time*

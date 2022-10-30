@@ -58,3 +58,5 @@ Consequential thought - risk management - second order consequences by sam ovens
  - Things I imagine would be fun to do but not important
  - Minimize efficiency with SO - insane dates
  - Fatherhood would be massive when I have kids - full time job to raise Adonis.
+
+ *Subject to change over time*

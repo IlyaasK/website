@@ -13,6 +13,11 @@ menu:
       identifier: search
       url: /search/
       weight: 10
+    - name: Reading List
+      identifier: read
+      url: /read/
+      weight: 10
+
 
 params:
   style: auto
@@ -33,6 +38,16 @@ params:
   socialIcons: # optional
       - name: "youtube"
         url: "https://youtube.com/c/IlyaasKapadia"
+      - name: "instagram"
+        url: "https://instagram.com/ilyaas.kapadia"
+      - name: "other"
+        url: "https://mumbaimirror.indiatimes.com/others/leisure/hot-wheels/articleshow/70625800.cms"
+      - name: "goodreads"
+        url: "https://www.goodreads.com/user/show/155615846-ilyaas-kapadia"
+
+
+
+
 
   ShowWordCount: true #show word count
 
