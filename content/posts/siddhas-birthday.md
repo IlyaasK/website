@@ -1,7 +1,7 @@
 ---
 title: "Siddha's Happy Birthday Ride"
 date: 2022-11-02T15:16:52+05:30
-tags:['MTB','Mumbai']
+tags: ['MTB','Mumbai']
 ---
 To: The Prince of Salunkhe Travel Services
 
