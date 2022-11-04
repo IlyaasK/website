@@ -20,9 +20,13 @@ Met Siddha at 7. and eyed his new car,. The only difference I saw was black seat
 
 We climbed up the trail only for Siddha to tell me that it was his birthday, and he came on a weekday, which is a change in routine for him, for a birthday ride. Makes sense.
 
+![Siddha pees](/images/siddhasbirthday/2.avif.png)
+
 We ride the Flow Trail and Temple Trail after a long time, stopping consistently mid-trail to clear rocks. Once, I stopped to remove a rock, and black ants laid claim to my legs. That was scary, and getting them off was time-consuming.
 
 They've put a bunch of branches at the start of the ending, a stretch where, when pumped properly will result in speeds of 60kmph, and temporary, but extreme euphoria. Siddha was hesitant to ride this segment due to the sheer number of obstacles they put up to prevent from entering. I convinced him otherwise and it paid off. I swear, by 2025 this trail will have vanished if we extend the current rate of construction. However, I doubt that would happen. That way of thinking is a fallacy. Unfortunately, the Uttan trail is basically not a trail anymore, the owners decided to turn it into a kaccha road.
+
+![Siddha and I](/images/siddhasbirthday/1.avif.png)
 
 I climbed much faster than Siddha, and shit my pants in the middle when I thought I saw police on the trail. Upon pumping our tires for the temple trail we realized I run my tires at 10 psi. I like it that way. Magic Mary is too strong for more air. Regardless, I pumped it up to 20 psi, and off we went. Did I say we? I meant Siddha. I think it was my extra stiff suspension and air in my tires slowing me down but fuck, this asshole was wildin'. I had to get off-line to let him pass and pass he did. Fast as fuck. The last time he rode this trail, he had to walk most of it. I will adjust my suspension and be back for it bitch.
 
