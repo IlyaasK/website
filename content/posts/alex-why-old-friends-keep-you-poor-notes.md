@@ -1,5 +1,5 @@
 ---
-title: "Alex Why Friends Keep You Poor Notes"
+title: "Alex Hormozi's Why Old Friends Keep You Poor Notes"
 date: 2022-11-14T13:04:21+05:30
 tags: ['Self-Improvement','Video Notes']
 ---
