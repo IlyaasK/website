@@ -1,7 +1,7 @@
 ---
 title: "Alex Hormozi's Why Daily Routines Keep You Fragile and Poor Notes"
 date: 2022-11-14T13:10:44+05:30
-tags:['Self-Improvement','Video Notes']
+tags: ['Self-Improvement','Video Notes']
 ---
 Constraints theoruy - a system will only grow until it's is allowed. It is bottlenecked by its weakest link. Attack the constraints - for me MTB wise, this is riding and not fitness. For YT and media - it is volume
 

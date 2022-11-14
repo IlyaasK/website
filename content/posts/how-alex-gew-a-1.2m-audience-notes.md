@@ -1,7 +1,7 @@
 ---
 title: "How Alex Hormozi Grew a 1.2M Audience Notes"
 date: 2022-11-14T13:15:36+05:30
-tags:[Self-Improvement','Video Notes']
+tags: [Self-Improvement','Video Notes']
 ---
 How Alex Hormozi grew a 1.2M following:
 

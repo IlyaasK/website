@@ -1,7 +1,7 @@
 ---
 title: "Alex Why Friends Keep You Poor Notes"
 date: 2022-11-14T13:04:21+05:30
-tags:['Self-Improvement','Video Notes']
+tags: ['Self-Improvement','Video Notes']
 ---
 [Video here](https://www.youtube.com/watch?v=vVssypj7nYw)
 
