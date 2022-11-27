@@ -30,6 +30,7 @@ params:
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowWoordCount: true
+  ShowFullTextinRSS: true
   homeInfoParams:
       Title: Guten Tag
       Content: A man in the mountains pursuing his dream.
@@ -44,6 +45,9 @@ params:
         url: "https://mumbaimirror.indiatimes.com/others/leisure/hot-wheels/articleshow/70625800.cms"
       - name: "goodreads"
         url: "https://www.goodreads.com/user/show/155615846-ilyaas-kapadia"
+      - name: "rss"
+        url: "https://ilyaas.netlify.app/index.xml"
+
 
 
 
@@ -61,3 +65,5 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+
+  ShowFullTextinRSS: true
