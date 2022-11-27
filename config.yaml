@@ -17,6 +17,11 @@ menu:
       identifier: read
       url: /read/
       weight: 10
+    - name: Subscribe
+      identifier: subscribe
+      url: /subscribe/
+      weight: 10
+
 
 
 params:
