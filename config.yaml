@@ -1,7 +1,7 @@
 baseURL: 'https://ilyaas.netlify.app/'
 languageCode: en-us
 title: Ilyaas Kapadia
-theme: PaperMod
+theme: ["PaperMod","hugo-video"]
 paginate: 100
 menu:
   main:
