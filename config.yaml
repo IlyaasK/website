@@ -3,6 +3,7 @@ languageCode: en-us
 title: Ilyaas Kapadia
 theme: ["PaperMod","hugo-video"]
 paginate: 100
+enableRobotsTXT: true
 menu:
   main:
     - name: Tags
@@ -25,6 +26,7 @@ menu:
 
 
 params:
+  env: production
   style: auto
   copyCodeButton: true
   dateFormat: 2 January 2006
