@@ -18,7 +18,7 @@ That’s it. A belief shattered. I can get rich. Watch me get rich. Watch me ama
 
 This is from one module from one course in Adonis School. Here is what I learned from the entire Mindset module of the "$1K Online In 30 Days (and Beyond)" course.
 
-# Video 2: Find the Jeffrey
+## Video 2: Find the Jeffrey
 
 Ask yourself, “What is slowing me down in my pursuit?”
 
@@ -28,13 +28,13 @@ What is slowing me down in MTB? School - it takes most of my day. My Lodge’s b
 
 This transitions to my second constraint - a lack of time. I could ‘cheat code’ this by spending money on MTB coaching and increasing the return on my current time spent practicing, however, this would need money. Therefore, I have started this endeavor.
 
-What is slowing me down on YouTube? With YouTube, I don’t know how to edit to craft a story better. I edit, and then I do not know what to do. But this constraint is slowly coming off, as I read ‘Storyworthy’ by Matthew Dicks and as I learn about the story, emotion, and rhythm triangle to make cuts. I also stumbled upon a YouTube coach from the Synthesizers community.
+What is slowing me down on YouTube? With YouTube, I don’t know how to edit to craft a story better. I edit, and then I do not know what to do. But this constraint is slowly coming off, as I read [‘Storyworthy’ by Matthew Dicks](https://amzn.to/4554xGQ) and as I learn about the [story, emotion, and rhythm triangle to make cuts](https://www.youtube.com/watch?v=VxNgEtBT1ss). I also stumbled upon a [YouTube coach](https://www.skool.com/@aman-kumar-9832) from the [Synthesizers community](https://greatonlinegame.com).
 
 Who is the Jeffrey in your life? What is the one thing slowing you down, just like how almost always, it is one factor that slows down the pack from moving faster?
 
 Who is the Jeffrey, slowing down the whole pack because we cannot split up and go past him?
 
-# Video 3: Brain Points
+## Video 3: Brain Points
 
 If you send messages, check emails, or have food before you get to work, you lose brain points that you could have otherwise spent on pursuing your dreams.
 
@@ -48,7 +48,7 @@ For me, I should check my phone only after 7:30 am. For this, I would probably h
 
 Ask yourself, “Where are your brain points going?”
 
-
+![Essentialism Graph](/images/essentialism-graph.png "Esssentialism Graph")
 
 Draw the essentialism graph for yourself. How many arrows and to what do you have? Don’t stop making arrows in 30 minutes. Keep asking yourself this with brutal honesty for a week straight, and then eliminate everything until you have a maximum of four.
 
@@ -58,43 +58,43 @@ What will you sacrifice for your dreams? Fitness - I am already doing this. Carb
 
 Hamza eats one meal a day carnivore style - goat cheese, 2 to 3 steaks, 8 to 10 eggs, and butter.
 
-How to save brain points:
+#### How to save brain points:
 
-Use Google Calendar. Plan tomorrow today. Absolute key. Have a timetable for the next day and a rough long-term routine, a long-term outline of what your days look like. That is, wake up and sleep at X time, eat X things at X time, and wear X things every day.
+1. Use Google Calendar. Plan tomorrow today. Absolute key. Have a timetable for the next day and a rough long-term routine, a long-term outline of what your days look like. That is, wake up and sleep at X time, eat X things at X time, and wear X things every day.
 
-Turn your notifications off for everything. Personally, I still have them on for my personal email. My email has been cleaned up to only notify me of important things like my visas, etc.
+2. Turn your notifications off for everything. Personally, I still have them on for my personal email. My email has been cleaned up to only notify me of important things like my visas, etc.
 
-Ensure your phone does not automatically turn on when you pick it up. I had already done this.
+3. Ensure your phone does not automatically turn on when you pick it up. I had already done this.
 
-Switch your phone to grayscale as well. This may not seem like much at first, but after 7 days, if you switch back to color, you will realize how they use color to entice you to spend more time on your phone.
+4. Switch your phone to grayscale as well. This may not seem like much at first, but after 7 days, if you switch back to color, you will realize how they use color to entice you to spend more time on your phone.
 
-Hamza says to put your phone on "Do Not Disturb," but I have not done that because, in New Zealand, I have only 4 contacts. So when someone calls, it is urgent (and this has not happened yet).
+5. Hamza says to put your phone on "Do Not Disturb," but I have not done that because, in New Zealand, I have only 4 contacts. So when someone calls, it is urgent (and this has not happened yet).
 
-While working, put your phone out of sight and never check it. Hamza puts it under his bedsheet. I put my phone in a cupboard as well.
+6. While working, put your phone out of sight and never check it. Hamza puts it under his bedsheet. I put my phone in a cupboard as well.
 
-Do not check your phone, even if it is a 10-second text. Task-switching penalty will slow you down for the next 25 minutes.
+7. Do not check your phone, even if it is a 10-second text. Task-switching penalty will slow you down for the next 25 minutes.
 
-Right now, do not bulk. This goes back to carbs and training. Do not train hard. Do more cardio and HIIT. Hard resistance training will affect your Central Nervous System for the day and result in brain fog.
+8. Right now, do not bulk. This goes back to carbs and training. Do not train hard. Do more cardio and HIIT. Hard resistance training will affect your Central Nervous System for the day and result in brain fog.
 
 Hamza says the current META (Most Effective Tactic Available) may be to increase income and then get the perfect trainer, chef, and supplements to almost cheat code your fitness journey.
 
 And if you are going to a gym, you will have fake desires, mimetic desires, and desires that are not your true desires, and following them will not lead to the achievement of your true and ultimate goals. I made this mistake. I switched to bodybuilding-style training for 2 months, when in reality, it did not help me become a faster mountain biker but just made me feel better about myself.
 
-Increasing brain points:
+#### Increasing brain points:
 
-Exercise every day. That is Zone 2 cardio for around 30 minutes a day. Zone 2 cardio is when you are walking and can still talk to your friends. Think of an easy hike.
+1. Exercise every day. That is Zone 2 cardio for around 30 minutes a day. Zone 2 cardio is when you are walking and can still talk to your friends. Think of an easy hike.
 
-Meditation. Sit for 5 minutes and think about nothing.
+2. Meditation. Sit for 5 minutes and think about nothing.
 
-Sleep for 8 hours a day in a cold, dark room, and don’t watch screens for 2 hours before bed.
+3. Sleep for 8 hours a day in a cold, dark room, and don’t watch screens for 2 hours before bed.
 
-Low carbs, high protein, high fat. No sugar, no processed foods. Eat clean.
+4. Low carbs, high protein, high fat. No sugar, no processed foods. Eat clean.
 
-(Optional) Get a Whoop/Oura and track HRV. The better your HRV, the more brain points you have. 45 is a bad day for Hamza, and 70 is a good day.
+5. (Optional) Get a Whoop/Oura and track HRV. The better your HRV, the more brain points you have. 45 is a bad day for Hamza, and 70 is a good day.
 
 Carbs and weightlifting decrease HRV.
 
-# Video 4: Eat The Frog
+## Video 4: Eat The Frog
 
 Do the thing that matters: the hard, game-changing, high-leverage deep work task, first thing in the day.
 
@@ -114,7 +114,7 @@ Hamza does two 3-hour deep work tasks a day. That is 6 hours a day. The first on
 
 "Eat the frog" will result in volume. This is what matters most. Eating the frog every day conquers your days.
 
-# Video 5: Limiting Inputs
+## Video 5: Limiting Inputs
 
 Limit the information you take in. Too much processing. Too much intake. Too much information is influencing you. Then you don't know where to go because everyone contradicts each other. Just choose one thing and do it. Let the compounding skyrocket you.
 
@@ -134,17 +134,20 @@ Less input is like having blinders on, you can't even see the shiny objects and 
 
 For me, don't let your videos be MrBeastified - tell your story at your own pace, unfiltered and all. Be the authentic you.
 
-How do you limit input?
+#### How do you limit input?
 
-Go on a dopamine detox
-Block YouTube
-Have a focused mindset. "I do not listen to bullshit."
-Read "Discipline is Destiny."
+1. Go on a [dopamine detox](https://www.youtube.com/watch?v=-8jfpxCZZZ8&t=301s&pp=ygUaaGFtemEgZG9wYW1pbmUgZGV0b3ggZ3VpZGU%3D)
+2. [Block YouTube](https://www.youtube.com/watch?v=IlkO8g_nwlI&t=587s&pp=ygUXaGFtemEgY2hhbmdlIHlvdXIgbGlmZSA%3D)
+3. Have a focused mindset. "I do not listen to bullshit."
+4. Read ["Discipline is Destiny."](https://amzn.to/3s85AXQ)
 
-# Video 6: Fat Man's Gym
+## Video 6: Fat Man's Gym
 
 Summarized: Just start. Shut the fuck up and do it. Volume.
 
 You are the fat man at the gym but in the realm of business. Start. Alex Hormozi's Rule 100. Shut down your brain, do 100 minutes of work, and then open your eyes. Stop coping.
 
 You will do volume, have questions, AND get them answered. Then you'll ask better questions. Repeat.
+
+
+
