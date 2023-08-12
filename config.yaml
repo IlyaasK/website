@@ -36,8 +36,8 @@ params:
   ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true
-  ShowWoordCount: true
-  ShowFullTextinRSS: true
+  ShowWordCount: true
+    #  ShowFullTextinRSS: true
   homeInfoParams:
       Title: Guten Tag
       Content: A man in the mountains pursuing his dream.
