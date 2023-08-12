@@ -28,7 +28,7 @@ What is slowing me down in MTB? School - it takes most of my day. My Lodge’s b
 
 This transitions to my second constraint - a lack of time. I could ‘cheat code’ this by spending money on MTB coaching and increasing the return on my current time spent practicing, however, this would need money. Therefore, I have started this endeavor.
 
-What is slowing me down on YouTube? With YouTube, I don’t know how to edit to craft a story better. I edit, and then I do not know what to do. But this constraint is slowly coming off, as I read [‘Storyworthy’ by Matthew Dicks](https://amzn.to/4554xGQ) and as I learn about the [story, emotion, and rhythm triangle to make cuts](https://www.youtube.com/watch?v=VxNgEtBT1ss). I also stumbled upon a [YouTube coach](https://www.skool.com/@aman-kumar-9832) from the [Synthesizers community](https://greatonlinegame.com).
+What is slowing me down on YouTube? With YouTube, I don’t know how to edit to craft a story better. I edit, and then I do not know what to do. But this constraint is slowly coming off, as I read [‘Storyworthy’ by Matthew Dicks](https://amzn.to/4554xGQ) and as I learn about the [story, emotion, and rhythm triangle to make cuts](https://www.youtube.com/watch?v=VxNgEtBT1ss). I also stumbled upon a [YouTube coach](https://www.skool.com/@aman-kumar-9832) from the [Synthesizers community](https://www.skool.com/synthesizers).
 
 Who is the Jeffrey in your life? What is the one thing slowing you down, just like how almost always, it is one factor that slows down the pack from moving faster?
 
