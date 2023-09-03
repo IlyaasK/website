@@ -20,13 +20,13 @@ Life update:
 
 It is becoming summer, so I am wearing fewer layers, and sunlight is extending longer. I will keep MTB first and let editing go until I get a job, at which point I will do more editing, because I won't have to do homework, and/or outsource editing.
 
-In the last 2 days, I did 3 jumps of Mini Dream. This is up from practicing the transition line for 2 weeks straight. Exponential progress. Thanks to [https://www.treadmark.co.nz/](Piyush), I am getting the technique dialed, which feels like a cheat code, I have unlocked every jump on Mini Dream, I just have to have the balls and familiarity/ speed judgment to do them. 
+In the last 2 days, I did 3 jumps of Mini Dream. This is up from practicing the transition line for 2 weeks straight. Exponential progress. Thanks to [Piyush](https://www.treadmark.co.nz/), I am getting the technique dialed, which feels like a cheat code, I have unlocked every jump on Mini Dream, I just have to have the balls and familiarity/ speed judgment to do them. 
 
 Having Piyush give feedback is like trying to form sentences with words, instead of letters. It becomes about stringing techniques together, instead of trying to figure out what the technique is or what to do in the first place. I am grateful.
 
 I am grateful to be around much better jumpers, and soon when the Skyline bike park opens in 3 weeks, much faster riders. I observe them and then get towed in by them, which makes my progress so much faster. Today I was towed in by a grandfather, with a 10-year-old retro ass bike with an external air chamber for the shock :). Absolute legend. I also found a dude called Logan. He is 13, but fast. Something about him makes me like him.
 
-I also realized that I can summarise the difference between JBCN and QRC as: JBCN instills an [https://www.youtube.com/watch?v=a6rqAw3D03M](owner's mindset) and QRC instills an employee's mindset. Less agency, more rule-following.
+I also realized that I can summarise the difference between JBCN and QRC as: JBCN instills an [owner's mindset](https://www.youtube.com/watch?v=a6rqAw3D03M) and QRC instills an employee's mindset. Less agency, more rule-following.
 
 As for the people, JBCN kids were driving for something. Here many more are NPCs - partying, having fun, that sort of thing. Makes me appreciate my Indian friends a lot more. But that is likely an outcome of my course, which tends to attract a certain kind of 'chill' person. I, of course, am using this as my ticket to a Western country. That may have proved an unwise decision, due to the lack of an open post-study work visa, but let's see what I'll make of it.
 
@@ -40,6 +40,6 @@ I also realized that I will expect my wife to become a full-time mother, despite
 
 People are surprised by the fact that I don't have friends, but I have been this way for quite a while. I don't 'hang out'. We study/ride together. Sometimes we sort emotions out together, but I've never been one for just timepass, except for Boisar. Even with Vihaan and Arya - there has been studying and editing/studying respectively.
 
-I find [https://www.youtube.com/@ChrisWillx](Modern Wisdom by Chris Williamson) informative.
+I find [Modern Wisdom By Chris Williamson](https://www.youtube.com/@ChrisWillx) informative.
 
-This blog may have been mimetic desire because [https://substack.com/@siddhasalunkhe](Siddha) and [https://aspiringlawyersrecord.substack.com/](Vivek) are blogging, but this one has been inspired by [https://siddhasalunkhe.substack.com/p/goals-for-the-coming-week](Siddha's blog post), and it has been good to dump shit on paper. Clears brain space.
+This blog may have been mimetic desire because [Siddha](https://substack.com/@siddhasalunkhe) and [Vivek](https://aspiringlawyersrecord.substack.com/) are blogging, but this one has been inspired by [Siddha's blog post](https://siddhasalunkhe.substack.com/p/goals-for-the-coming-week]), and it has been good to dump shit on paper. Clears brain space.
